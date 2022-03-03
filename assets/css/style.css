@@ -85,3 +85,10 @@
     color: #fff;
     height: 120px;
 }
+
+.menutem a i {
+    padding-top: 22px;
+    display: block;
+    color: fafafa;
+    font-size: 26px;
+}
