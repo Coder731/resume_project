@@ -45,7 +45,7 @@ h4 {
     color: #fafafa;
 }
 
-inline-block {
+.inline-block {
     display: inline-block;
 }
 
