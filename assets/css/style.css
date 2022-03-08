@@ -44,6 +44,7 @@
     float: none;
 }
 
+.history-heading ,
 .section-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
@@ -283,4 +284,11 @@ footer {
 
 .progress-section {
     margin: 40px 20px;
+}
+
+/* -------------------------------Work History */
+
+.history-section {
+    color: #fafafa;
+    margin-bottom: 50px;
 }
