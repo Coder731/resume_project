@@ -110,7 +110,7 @@ Happy coding!
 
 ## Debug:
  -[padding reference](https://www.w3schools.com/css/css_padding.asp)
- Things were hugging the left margin, and I could not find out why checking the thml and css.
- Finally found using [diff checker](https://www.diffchecker.com/) that I had 4 not 3 terms in my padding in one of the style rules.
+ Things were hugging the left margin, and I could not find out why, by checking the html and css.
+ Finally, found, using [diff checker](https://www.diffchecker.com/), that I had 4 not 3 terms in my padding, in one of the style rules.
  That fourth term was set to zero.
- from the above reference, the fourth term is the left term, hence the content hugging the left margin of the page, when set to zero.  Just FYI, the order goes clockwise from 12 o'clock so top, right, bottom, and finally the left, which if you think about it may be the most dramatically obvious of the four paddings if say it is set to 0.
+ From the above reference, the fourth term is the left term - hence the content hugging the left margin of the page, when set to zero.  Just FYI, the order goes clockwise from 12 o'clock: so, top, right, bottom, and finally the left - which if you think about it: may be the most dramatically obvious of the four paddings if say it is set to 0.
