@@ -336,14 +336,14 @@ footer {
 }
 
 
-/* 
+
 .history-items {
     margin-bottom: 30px;
-} */
+}
 
 /* -------------------------------Contact Form */
 
-/* .contact-heading {
+.contact-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
@@ -361,19 +361,19 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #e84610;
-} */
+}
 
 
 
 /* -------------------------------Media Queries */
 
-/* @media(min-width: 992px) {
+@media(min-width: 992px) {
     .center-form {
         padding-top: 30px;
         min-height: 240px;
         margin: 0 auto;
         max-width: 50%;
     }
-} */
+}
 
 
