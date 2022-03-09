@@ -1,5 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+# PART 1 of 2: Template README:
 Welcome Coder731,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
@@ -107,10 +108,14 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 
 Happy coding!
 
-
+# PART 2 of 2: Own README:
 ## Debug:
+### Issue 1
  -[padding reference](https://www.w3schools.com/css/css_padding.asp)
  Things were hugging the left margin, and I could not find out why, by checking the html and css.
  Finally, found, using [diff checker](https://www.diffchecker.com/), that I had 4 not 3 terms in my padding, in one of the style rules.
  That fourth term was set to zero.
  From the above reference, the fourth term is the left term - hence the content hugging the left margin of the page, when set to zero.  Just FYI, the order goes clockwise from 12 o'clock: so, top, right, bottom, and finally the left - which if you think about it: may be the most dramatically obvious of the four paddings if say it is set to 0.
+
+### Issue 2:
+-removed closing div tag, which was making front and back end divisions of resume html display on a separate line to the timeline.
